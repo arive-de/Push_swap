@@ -1,11 +1,6 @@
-# Checker
-
-The program receives intergers, 
-Programme qui reçoit sur l'entrée standards les nombres les placer dans la pile A. Va lire les commandes reçus sur la sortie standard puis les effectuer. A la fin aprés un CTRL + D va vérifier si la pile A est trier. Si c'est le cas checker écris sur la sortie standard "OK" sinon "Error".
-
 # Push_swap
 
-The aim of the project is to sort a set of integers using two stacks and the following instructions :
+The aim of the project is to sort a set of integers in pile A, using two stacks and the following instructions :
 
 | Code | Instruction | Action |
 | ------------- |:----------------| :-----|
